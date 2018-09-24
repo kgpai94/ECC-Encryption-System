@@ -1,0 +1,24 @@
+NET "clk" LOC = P57;
+
+NET "reset" LOC = P29;
+
+NET "data_out[7]" LOC = P7;
+NET "data_out[6]" LOC = P8;
+NET "data_out[5]" LOC = P10;
+NET "data_out[4]" LOC = P11;
+NET "data_out[3]" LOC = P12;
+NET "data_out[2]" LOC = P13;
+NET "data_out[1]" LOC = P15;
+NET "data_out[0]" LOC = P16;
+
+NET "inst[2]" LOC = P18;
+NET "inst[1]" LOC = P19;
+NET "inst[0]" LOC = P20;
+NET "ctrl[2]" LOC = P21;
+NET "ctrl[1]" LOC = P23;
+NET "ctrl[0]" LOC = P24;
+NET "sel[1]" LOC = P27;
+NET "sel[0]" LOC = P28;
+
+
+
